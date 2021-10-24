@@ -1,0 +1,5 @@
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Bin\Runtime.dll
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Bin\Runtime.pdb
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\VM.Runtime\obj\Debug\VM.Runtime.csproj.CoreCompileInputs.cache
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\VM.Runtime\obj\Debug\Runtime.dll
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\VM.Runtime\obj\Debug\Runtime.pdb

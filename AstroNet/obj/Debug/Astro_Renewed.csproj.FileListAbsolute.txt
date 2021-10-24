@@ -1,0 +1,68 @@
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.exe.config
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.exe
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.pdb
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.AssemblyReference.cache
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CoreCompileInputs.cache
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.exe
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.pdb
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\bin\Debug\dnlib.dll
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\bin\Debug\dnlib.xml
+C:\Users\akibu\source\repos\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CopyComplete
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.exe.config
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.exe
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.pdb
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\bin\Debug\dnlib.dll
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\bin\Debug\dnlib.xml
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.AssemblyReference.cache
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CoreCompileInputs.cache
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CopyComplete
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.exe
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\ASTRO_RENEWED\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.pdb
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.AssemblyReference.cache
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CoreCompileInputs.cache
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.exe
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.pdb
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.exe.config
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.exe
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\Astro_Renewed.pdb
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\dnlib.dll
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\KoiVM.Console.dll
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\dnlibOld.dll
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\KoiVM.dll
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\KoiVM.Console.pdb
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\dnlib.xml
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\bin\Debug\KoiVM.pdb
+C:\Users\akibu\Desktop\Astro_Renewed\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CopyComplete
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.AssemblyReference.cache
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CoreCompileInputs.cache
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\obj\Debug\Astro_Renewed.exe
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\obj\Debug\Astro_Renewed.pdb
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\Astro_Renewed.exe.config
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\Astro_Renewed.exe
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\Astro_Renewed.pdb
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\dnlib.dll
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\KoiVM.Console.dll
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\dnlibOld.dll
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\KoiVM.dll
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\KoiVM.Console.pdb
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\dnlib.xml
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\bin\Debug\KoiVM.pdb
+C:\Users\akibu\Desktop\hahaxdjsd\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CopyComplete
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\Astro_Renewed.exe.config
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\Astro_Renewed.exe
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\Astro_Renewed.pdb
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\dnlib.dll
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\KoiVM.Console.dll
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\KoiVM.dll
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\KoiVM.Console.pdb
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\dnlib.xml
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\KoiVM.pdb
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.AssemblyReference.cache
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CoreCompileInputs.cache
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\obj\Debug\Astro_Renewed.csproj.CopyComplete
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\obj\Debug\Astro_Renewed.exe
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\obj\Debug\Astro_Renewed.pdb
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\Astro_Renewed\bin\Debug\dnlibOld.dll
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\bin\Astro_Renewed.exe.config
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\bin\Astro_Renewed.exe
+D:\Reverse Engineering\dotNET Files\Coding Files\PROJECTS\AstroNet\bin\Astro_Renewed.pdb

@@ -1,0 +1,11 @@
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AndyLarkinsProtector.csproj.AssemblyReference.cache
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AndyLarkinsProtector.csproj.GenerateResource.cache
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AndyLarkinsProtector.csproj.CoreCompileInputs.cache
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AndyLarkinsProtector.csproj.CopyComplete
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\bin\AstroNet.exe.config
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\bin\AstroNet.exe
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\bin\AstroNet.pdb
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AstroNet.Properties.Resources.resources
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AstroNet.exe
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AstroNet.pdb
+D:\Reverse Engineering\reverse try\AndyLarkinsVM-main\AndyLarkinsProtector\obj\Debug\AstroNet.Form1.resources

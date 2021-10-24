@@ -1,0 +1,25 @@
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Bin\Core.dll
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Bin\Core.pdb
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Core\obj\Debug\Core.dll
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Core\obj\Debug\Core.pdb
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Core\obj\Debug\Core.Properties.Resources.resources
+c:\users\eddy^cz\documents\visual studio 2017\Projects\VM\Core\obj\Debug\Core.csproj.GenerateResource.Cache
+C:\Users\4355678931\Desktop\CawkVM\Bin\Core.dll
+C:\Users\4355678931\Desktop\CawkVM\Bin\Core.pdb
+C:\Users\4355678931\Desktop\CawkVM\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\4355678931\Desktop\CawkVM\Core\obj\Debug\Core.Properties.Resources.resources
+C:\Users\4355678931\Desktop\CawkVM\Core\obj\Debug\Core.csproj.GenerateResource.cache
+C:\Users\4355678931\Desktop\CawkVM\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\4355678931\Desktop\CawkVM\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\4355678931\Desktop\CawkVM\Core\obj\Debug\Core.dll
+C:\Users\4355678931\Desktop\CawkVM\Core\obj\Debug\Core.pdb
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Bin\Core.dll
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Bin\Core.pdb
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Core\obj\Debug\Core.Properties.Resources.resources
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Core\obj\Debug\Core.csproj.GenerateResource.cache
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Core\obj\Debug\Core.dll
+C:\Users\akibu\Desktop\CawkVM-Virtualization-master\Core\obj\Debug\Core.pdb
